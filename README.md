@@ -1,6 +1,6 @@
 # Shadi Kais 👋
 
-![dy8uuPWCzQrMA](https://github.com/user-attachments/assets/1615275e-ff91-4cde-8e2e-badd52b996f0)![dy8uuPWCzQrMA](https://github.com/user-attachments/assets/113c43ea-a457-4c07-a93d-3ef1a682c0f3)
+![dy8uuPWCzQrMA](https://github.com/user-attachments/assets/1615275e-ff91-4cde-8e2e-badd52b996f0)
 
 ## About me 👨‍🚀
 
