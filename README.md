@@ -6,7 +6,7 @@
 
 I am a computer science graduate from **Swinburne University of Technology** with a passion for technology and a focus on security and development!
 - Currently strengthing my skills with helpdesk simulation projects with my Homelab 🦾
-- Looking for my first job as an IT professional 🏭
+- Looking for a long term position as an IT professional 🏭
 
 ## Helpdesk Homelab Projects (Windows Server)
 
