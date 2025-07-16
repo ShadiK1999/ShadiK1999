@@ -8,6 +8,10 @@ I am a computer science graduate from **Swinburne University of Technology** wit
 - Currently strengthing my skills with helpdesk simulation projects with my Homelab 🦾
 - Looking for my first job as an IT professional 🏭
 
+## Helpdesk Homelab Projects (Windows Server)
+
+- VM setup and Active Directory configuration
+
 ## Languages and Tools 🛠️
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
@@ -20,8 +24,7 @@ I am a computer science graduate from **Swinburne University of Technology** wit
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
 
-## Helpdesk Homelab Projects (Windows Server)
-- VM setup and Active Directory configuration
+
           
 
 <!--
