@@ -8,9 +8,10 @@ I am a computer science graduate from **Swinburne University of Technology** wit
 - Currently strengthing my skills with helpdesk simulation projects with my Homelab 🦾
 - Looking for a long term position as an IT professional 🏭
 
-## Helpdesk Homelab Projects (Windows Server)
+## Helpdesk Homelab Projects
 
 - [Virtual Machines and Active Directory](https://github.com/ShadiK1999/Helpdesk-Homelab-Projects/tree/main/Active%20Directory)
+- [Simulated Ticketing System - Spiceworks](https://github.com/ShadiK1999/Helpdesk-Homelab-Projects/tree/main/Ticketing%20System)
 
 ## Languages and Tools 🛠️
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
