@@ -11,7 +11,7 @@ I am a computer science graduate from **Swinburne University of Technology** wit
 ## Helpdesk Homelab Projects
 
 - [Virtual Machines and Active Directory](https://github.com/ShadiK1999/Helpdesk-Homelab-Projects/tree/main/Active%20Directory)
-- [Simulated Ticketing System - Spiceworks](https://github.com/ShadiK1999/Helpdesk-Homelab-Projects/tree/main/Ticketing%20System)
+- [Simulated Ticketing System - Spiceworks (in progress)](https://github.com/ShadiK1999/Helpdesk-Homelab-Projects/tree/main/Ticketing%20System)
 
 ## Languages and Tools 🛠️
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
