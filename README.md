@@ -13,8 +13,8 @@ I am a computer science graduate from **Swinburne University of Technology** wit
 - [Virtual Machines and Active Directory](https://github.com/ShadiK1999/Helpdesk-Homelab-Projects/tree/main/Active%20Directory)
 - [Simulated Ticketing System - Spiceworks](https://github.com/ShadiK1999/Helpdesk-Homelab-Projects/tree/main/Ticketing%20System)
 - [Group Policy Management (In Progress)](https://github.com/ShadiK1999/Helpdesk-Homelab-Projects/tree/main/Active%20Directory/GroupPolicy)
-  - GPO Creation
-  - GPO Application
+  - [GPO Creation](https://github.com/ShadiK1999/Helpdesk-Homelab-Projects/tree/main/Active%20Directory/GroupPolicy/GPO%20Creation)
+  - GPO Implementation adn Testing
 - [File Services (In progress)](https://github.com/ShadiK1999/Helpdesk-Homelab-Projects/tree/main/Active%20Directory/FileServices)
 
 ## Languages and Tools 🛠️
