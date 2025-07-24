@@ -15,7 +15,9 @@ I am a computer science graduate from **Swinburne University of Technology** wit
 - [Group Policy Management](https://github.com/ShadiK1999/Helpdesk-Homelab-Projects/tree/main/Active%20Directory/GroupPolicy)
   - [GPO Creation](https://github.com/ShadiK1999/Helpdesk-Homelab-Projects/tree/main/Active%20Directory/GroupPolicy/GPO%20Creation)
   - [GPO Implementation and Testing](https://github.com/ShadiK1999/Helpdesk-Homelab-Projects/tree/main/Active%20Directory/GroupPolicy/GPO%20Implementation%20and%20Testing)
-- [File Services](https://github.com/ShadiK1999/Helpdesk-Homelab-Projects/tree/main/Active%20Directory/FileServices)
+- [Configuring File Services](https://github.com/ShadiK1999/Helpdesk-Homelab-Projects/tree/main/Active%20Directory/FileServices)
+  - File sharing and sharing methods
+  - FSRM quota and file screen configurations
 
 ## Languages and Tools 🛠️
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
