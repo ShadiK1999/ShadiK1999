@@ -18,7 +18,7 @@ I am a computer science graduate from **Swinburne University of Technology** wit
 - [Configuring File Services](https://github.com/ShadiK1999/Helpdesk-Homelab-Projects/tree/main/Active%20Directory/FileServices)
   - File sharing and sharing methods
   - FSRM quota and file screen configurations
-- [Implementing Secuiry Policies](https://github.com/ShadiK1999/Helpdesk-Homelab-Projects/tree/main/Active%20Directory/SecurityPolicies)
+- [Implementing Security Policies](https://github.com/ShadiK1999/Helpdesk-Homelab-Projects/tree/main/Active%20Directory/SecurityPolicies)
   - Configuring User Rights and Password threshold policies
   - Create Password Settings Objects (PSOs)
     
