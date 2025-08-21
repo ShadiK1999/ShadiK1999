@@ -13,8 +13,8 @@ I am a computer science graduate from **Swinburne University of Technology** wit
 - [Virtual Machines and Active Directory](https://github.com/ShadiK1999/Helpdesk-Homelab-Projects/tree/main/Active%20Directory)
 - [Simulated Ticketing System - Spiceworks](https://github.com/ShadiK1999/Helpdesk-Homelab-Projects/tree/main/Ticketing%20System)
 - [Group Policy Management](https://github.com/ShadiK1999/Helpdesk-Homelab-Projects/tree/main/Active%20Directory/GroupPolicy)
-  - [GPO Creation](https://github.com/ShadiK1999/Helpdesk-Homelab-Projects/tree/main/Active%20Directory/GroupPolicy/GPO%20Creation)
-  - [GPO Implementation and Testing](https://github.com/ShadiK1999/Helpdesk-Homelab-Projects/tree/main/Active%20Directory/GroupPolicy/GPO%20Implementation%20and%20Testing)
+  - GPO Creation
+  - GPO Implementation and Testing
 - [Configuring File Services](https://github.com/ShadiK1999/Helpdesk-Homelab-Projects/tree/main/Active%20Directory/FileServices)
   - File sharing and sharing methods
   - FSRM quota and file screen configurations
