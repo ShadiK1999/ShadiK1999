@@ -21,6 +21,7 @@ I am a computer science graduate from **Swinburne University of Technology** wit
 - [Implementing Security Policies](https://github.com/ShadiK1999/Helpdesk-Homelab-Projects/tree/main/Active%20Directory/SecurityPolicies)
   - Configuring User Rights and Password threshold policies
   - Create Password Settings Objects (PSOs)
+- [Creating Service Accounts](https://github.com/ShadiK1999/Helpdesk-Homelab-Projects/tree/main/Active%20Directory/Service%20Accounts)
     
 ## Languages and Tools 🛠️
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
