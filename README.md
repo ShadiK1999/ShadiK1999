@@ -5,7 +5,8 @@
 ## About me 👨‍🚀
 
 I am a computer science graduate from **Swinburne University of Technology** with a passion for technology and a focus on security and development!
-- Currently strengthing my skills with helpdesk simulation projects with my Homelab 🦾
+- Strengthing my skills with helpdesk simulation projects with my Homelab 🦾
+- Setting up a new homelab specifically for self-hosting 🧑‍💻 
 - Looking for a long term position as an IT professional 🏭
 
 ## Helpdesk Homelab Projects
@@ -23,6 +24,13 @@ I am a computer science graduate from **Swinburne University of Technology** wit
   - Create Password Settings Objects (PSOs)
 - [Creating Service Accounts](https://github.com/ShadiK1999/Helpdesk-Homelab-Projects/tree/main/Active%20Directory/Service%20Accounts)
     
+## Self-Hosting Homelab Projects
+
+- Installing Proxmox on Hypervisor
+- Containers and Virtual Machines
+- Configuring VPN w/ TailScale
+- Ad Blocking w/ AdGuard Home
+  
 ## Languages and Tools 🛠️
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
