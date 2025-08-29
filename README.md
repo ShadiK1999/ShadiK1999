@@ -26,7 +26,7 @@ I am a computer science graduate from **Swinburne University of Technology** wit
     
 ## Self-Hosting Homelab Projects
 
-- [Installing Proxmox on Hypervisor](https://github.com/ShadiK1999/Self-Hosting-Homelab/tree/main/Proxmox%20Install) (in progress)
+- [Installing Proxmox Hypervisor](https://github.com/ShadiK1999/Self-Hosting-Homelab/tree/main/Proxmox%20Install) (in progress)
 - Containers and Virtual Machines
 - Configuring VPN w/ TailScale
 - Ad Blocking w/ AdGuard Home
